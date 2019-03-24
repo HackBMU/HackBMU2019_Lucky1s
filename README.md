@@ -5,3 +5,7 @@ We are building an Alexa skill which can either tell a random joke or on a parti
 
 #### Data
 Data is a mix of jokes of Conan O'Brien found from https://github.com/brendansudol/conan-jokes-data and sarcastic news headlines found from https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection/home .
+
+#### Examples of Jokes Produced So Far
+1. During President Trump cailled a new desided the worst word "fifth and then who their City of Santorum." By the worst trip to the next movie, Donald Trump said, "I played Mitt Romney."
+2. latest dance calls in viice for weekend of favorite bombing death of man's law
